@@ -1,5 +1,5 @@
-from .json_decoder import DatetimeEncoder
+from .json_encoder import ReportEncoder
 
 __all__ = [
-        'DatetimeEncoder',
+        'ReportEncoder',
         ]
